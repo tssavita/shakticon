@@ -6,6 +6,6 @@ COPY . .
 
 RUN yarn install
 
-RUN yarn run build
+RUN yarn cache clean && yarn run build
 RUN cp ./.next/service-worker.js ./public
 CMD [ "npm", "start" ]
