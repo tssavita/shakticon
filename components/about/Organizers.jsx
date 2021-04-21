@@ -333,7 +333,7 @@ const EventOrganizers = ({
                                 Savita will soon start as a DevOps Engineer at <a href="https://taxy.io">Taxy.io</a>. Previously she worked 
                                 at Ericsson as a Cloud Open Source Developer. She was a Google Women TechMaker in the year 2016 - 2017.<br /> 
                                 <br />
-                                She did her Masters in Computer Science with a specialization in Security and Privacy and Innovation and 
+                                Savita did her Masters in Computer Science with a specialization in Security and Privacy and Innovation and 
                                 Entrepreneurship, from EIT Digital Master School. She completed her Masters thesis in SAP SE, Germany. She 
                                 received her bachelor degree in Computer Science and Engineering from <a href="https://amrita.edu">Amrita University</a>, India.
                             </p>
